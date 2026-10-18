@@ -86,12 +86,9 @@ Contoh top-5 untuk item acuan `47448`:
 ```
 .
 ├── README.md
-├── notebook/
-│   └── UTS_Graf_Sains_Data.ipynb      # dokumentasi, kode, dan penjelasan
-├── data/
-│   ├── events_P1_training.csv         # hasil filter P1
-│   └── events_P2_testing.csv          # hasil filter P2
-└── requirements.txt
+├── CODE.ipynb      # dokumentasi, kode, dan penjelasan
+├── events_P1_training.csv     # hasil filter P1
+└── events_P2_testing.csv      # hasil filter P2        
 ```
 
 > `events.csv` asli (dataset penuh) tidak disertakan karena ukurannya besar. Unduh dari Kaggle (lihat tautan di atas).
